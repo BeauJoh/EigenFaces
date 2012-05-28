@@ -256,6 +256,10 @@ int main(int argc, char *argv[]) {
 
 		imshow("The average face", sAvgImage);
 
+        if (doWrite) {
+            imwrite("Average Eigenface.bmp", sAvgImage);
+        }
+        
 		int eigenCount=6;
 		if(fr.getEigenvectors().rows < eigenCount){
 			eigenCount = fr.getEigenvectors().rows;

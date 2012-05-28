@@ -17,8 +17,8 @@ t1338176550
 s362
 
 N/Users/beau/Documents/FifthYear/EigenFacesTest/DerivedData/EigenFacesTest/Build/Intermediates/EigenFacesTest.build/Debug/EigenFacesTest.build/Objects-normal/x86_64/EigenFacesTest.o
-t2
-s0
+t1338179607
+s213000
 
 N/Users/beau/Documents/FifthYear/EigenFacesTest/DerivedData/EigenFacesTest/Build/Intermediates/EigenFacesTest.build/Debug/EigenFacesTest.build/Objects-normal/x86_64/FaceRecognizer.o
 t1338176551
@@ -29,7 +29,7 @@ t2
 s0
 
 N/Users/beau/Documents/FifthYear/EigenFacesTest/DerivedData/EigenFacesTest/Build/Products/Debug/EigenFacesTest
-t1338179521
+t1338179607
 s115448
 
 N/Users/beau/Documents/FifthYear/EigenFacesTest/EigenFacesTest/EigenFacesTest.1
@@ -38,24 +38,24 @@ t1338176174
 s3135
 
 N/Users/beau/Documents/FifthYear/EigenFacesTest/EigenFacesTest/EigenFacesTest.cpp
-c000000004FC300160000000000001CFE
-t1338179606
-s7422
+c000000004FC31D1100000000000022F6
+t1338187025
+s8950
 
 N/Users/beau/Documents/FifthYear/EigenFacesTest/EigenFacesTest/EigenFacesTest.h
-c000000004E1EFA4C0000000000000514
-t1310653004
-s1300
+c000000004FC31A550000000000000A3F
+t1338186325
+s2623
 
 N/Users/beau/Documents/FifthYear/EigenFacesTest/EigenFacesTest/FaceRecognizer.cpp
-c000000004FC2F3C0000000000000080A
-t1338176448
-s2058
+c000000004FC31A510000000000000D9B
+t1338186321
+s3483
 
 N/Users/beau/Documents/FifthYear/EigenFacesTest/EigenFacesTest/FaceRecognizer.h
-c000000004FC2F248000000000000026D
-t1338176072
-s621
+c000000004FC31A4A0000000000000800
+t1338186314
+s2048
 
 N/Users/beau/Documents/FifthYear/EigenFacesTest/EigenFacesTest/main.cpp
 c000000004FC2F2AE000000000000012B
@@ -412,11 +412,11 @@ r0
 
 CCheck dependencies
 r0
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesfb5c41973773b541^ad6942973773b541^---0#1#0#--18"Check dependencies36"5AB8214B-485B-47F2-AEA2-F728CD77F076-
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies6d54f3955473b541^0ea0fb955473b541^---0#1#0#--18"Check dependencies36"39C158E4-FE2C-485C-B36B-D7C1E1D8CF65-
 
 CCompileC DerivedData/EigenFacesTest/Build/Intermediates/EigenFacesTest.build/Debug/EigenFacesTest.build/Objects-normal/x86_64/EigenFacesTest.o /Users/beau/Documents/FifthYear/EigenFacesTest/EigenFacesTest/EigenFacesTest.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
-s359872407.258810
-e359872407.950081
+s359879829.988175
+e359879830.670059
 r1
 xCompileC
 xDerivedData/EigenFacesTest/Build/Intermediates/EigenFacesTest.build/Debug/EigenFacesTest.build/Objects-normal/x86_64/EigenFacesTest.o
@@ -425,11 +425,11 @@ xnormal
 xx86_64
 xc++
 xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compile /Users/beau/Documents/FifthYear/EigenFacesTest/EigenFacesTest/EigenFacesTest.cpp045642973773b541^18cef5973773b541^---0#0#0#-19%DVTDocumentLocation2@96"file://localhost/Users/beau/Documents/FifthYear/EigenFacesTest/EigenFacesTest/EigenFacesTest.cpp0000000000000000^3314"CompileC DerivedData/EigenFacesTest/Build/Intermediates/EigenFacesTest.build/Debug/EigenFacesTest.build/Objects-normal/x86_64/EigenFacesTest.o EigenFacesTest/EigenFacesTest.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/beau/Documents/FifthYear/EigenFacesTest    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wshorten-64-to-32 -Wno-newline-eof -Wc++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.7 -g -fvisibility-inlines-hidden -Wno-conversion -Wno-sign-conversion -iquote /Users/beau/Documents/FifthYear/EigenFacesTest/DerivedData/EigenFacesTest/Build/Intermediates/EigenFacesTest.build/Debug/EigenFacesTest.build/EigenFacesTest-generated-files.hmap -I/Users/beau/Documents/FifthYear/EigenFacesTest/DerivedData/EigenFacesTest/Build/Intermediates/EigenFacesTest.build/Debug/EigenFacesTest.build/EigenFacesTest-own-target-headers.hmap -I/Users/beau/Documents/FifthYear/EigenFacesTest/DerivedData/EigenFacesTest/Build/Intermediates/EigenFacesTest.build/Debug/EigenFacesTest.build/EigenFacesTest-all-target-headers.hmap -iquote /Users/beau/Documents/FifthYear/EigenFacesTest/DerivedData/EigenFacesTest/Build/Intermediates/EigenFacesTest.build/Debug/EigenFacesTest.build/EigenFacesTest-project-headers.hmap -iquote/opt/local/lib -iquote/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/lib/system -I/Users/beau/Documents/FifthYear/EigenFacesTest/DerivedData/EigenFacesTest/Build/Products/Debug/include -I/opt/local/include -I/Users/beau/Documents/FifthYear/EigenFacesTest/DerivedData/EigenFacesTest/Build/Intermediates/EigenFacesTest.build/Debug/EigenFacesTest.build/DerivedSources/x86_64 -I/Users/beau/Documents/FifthYear/EigenFacesTest/DerivedData/EigenFacesTest/Build/Intermediates/EigenFacesTest.build/Debug/EigenFacesTest.build/DerivedSources -F/Users/beau/Documents/FifthYear/EigenFacesTest/DerivedData/EigenFacesTest/Build/Products/Debug -MMD -MT dependencies -MF /Users/beau/Documents/FifthYear/EigenFacesTest/DerivedData/EigenFacesTest/Build/Intermediates/EigenFacesTest.build/Debug/EigenFacesTest.build/Objects-normal/x86_64/EigenFacesTest.d --serialize-diagnostics /Users/beau/Documents/FifthYear/EigenFacesTest/DerivedData/EigenFacesTest/Build/Intermediates/EigenFacesTest.build/Debug/EigenFacesTest.build/Objects-normal/x86_64/EigenFacesTest.dia -c /Users/beau/Documents/FifthYear/EigenFacesTest/EigenFacesTest/EigenFacesTest.cpp -o /Users/beau/Documents/FifthYear/EigenFacesTest/DerivedData/EigenFacesTest/Build/Intermediates/EigenFacesTest.build/Debug/EigenFacesTest.build/Objects-normal/x86_64/EigenFacesTest.o36"7888DBD1-F781-4A9A-998C-19C18B34534F-
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compile /Users/beau/Documents/FifthYear/EigenFacesTest/EigenFacesTest/EigenFacesTest.cpp7522fd955473b541^2f89ab965473b541^---0#0#0#-19%DVTDocumentLocation2@96"file://localhost/Users/beau/Documents/FifthYear/EigenFacesTest/EigenFacesTest/EigenFacesTest.cpp0000000000000000^3314"CompileC DerivedData/EigenFacesTest/Build/Intermediates/EigenFacesTest.build/Debug/EigenFacesTest.build/Objects-normal/x86_64/EigenFacesTest.o EigenFacesTest/EigenFacesTest.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/beau/Documents/FifthYear/EigenFacesTest    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wshorten-64-to-32 -Wno-newline-eof -Wc++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.7 -g -fvisibility-inlines-hidden -Wno-conversion -Wno-sign-conversion -iquote /Users/beau/Documents/FifthYear/EigenFacesTest/DerivedData/EigenFacesTest/Build/Intermediates/EigenFacesTest.build/Debug/EigenFacesTest.build/EigenFacesTest-generated-files.hmap -I/Users/beau/Documents/FifthYear/EigenFacesTest/DerivedData/EigenFacesTest/Build/Intermediates/EigenFacesTest.build/Debug/EigenFacesTest.build/EigenFacesTest-own-target-headers.hmap -I/Users/beau/Documents/FifthYear/EigenFacesTest/DerivedData/EigenFacesTest/Build/Intermediates/EigenFacesTest.build/Debug/EigenFacesTest.build/EigenFacesTest-all-target-headers.hmap -iquote /Users/beau/Documents/FifthYear/EigenFacesTest/DerivedData/EigenFacesTest/Build/Intermediates/EigenFacesTest.build/Debug/EigenFacesTest.build/EigenFacesTest-project-headers.hmap -iquote/opt/local/lib -iquote/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/lib/system -I/Users/beau/Documents/FifthYear/EigenFacesTest/DerivedData/EigenFacesTest/Build/Products/Debug/include -I/opt/local/include -I/Users/beau/Documents/FifthYear/EigenFacesTest/DerivedData/EigenFacesTest/Build/Intermediates/EigenFacesTest.build/Debug/EigenFacesTest.build/DerivedSources/x86_64 -I/Users/beau/Documents/FifthYear/EigenFacesTest/DerivedData/EigenFacesTest/Build/Intermediates/EigenFacesTest.build/Debug/EigenFacesTest.build/DerivedSources -F/Users/beau/Documents/FifthYear/EigenFacesTest/DerivedData/EigenFacesTest/Build/Products/Debug -MMD -MT dependencies -MF /Users/beau/Documents/FifthYear/EigenFacesTest/DerivedData/EigenFacesTest/Build/Intermediates/EigenFacesTest.build/Debug/EigenFacesTest.build/Objects-normal/x86_64/EigenFacesTest.d --serialize-diagnostics /Users/beau/Documents/FifthYear/EigenFacesTest/DerivedData/EigenFacesTest/Build/Intermediates/EigenFacesTest.build/Debug/EigenFacesTest.build/Objects-normal/x86_64/EigenFacesTest.dia -c /Users/beau/Documents/FifthYear/EigenFacesTest/EigenFacesTest/EigenFacesTest.cpp -o /Users/beau/Documents/FifthYear/EigenFacesTest/DerivedData/EigenFacesTest/Build/Intermediates/EigenFacesTest.build/Debug/EigenFacesTest.build/Objects-normal/x86_64/EigenFacesTest.o36"8C18E509-F471-4553-AD1F-8EFEDAA37D20-
 
 CCompileC DerivedData/EigenFacesTest/Build/Intermediates/EigenFacesTest.build/Debug/EigenFacesTest.build/Objects-normal/x86_64/FaceRecognizer.o /Users/beau/Documents/FifthYear/EigenFacesTest/EigenFacesTest/FaceRecognizer.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
-s359869350.328979
-e359869351.159217
+s359879829.988668
+e359879830.611624
 r1
 xCompileC
 xDerivedData/EigenFacesTest/Build/Intermediates/EigenFacesTest.build/Debug/EigenFacesTest.build/Objects-normal/x86_64/FaceRecognizer.o
@@ -438,20 +438,20 @@ xnormal
 xx86_64
 xc++
 xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compile /Users/beau/Documents/FifthYear/EigenFacesTest/EigenFacesTest/FaceRecognizer.cpp884954a62b73b541^72c228a72b73b541^---0#0#0#-19%DVTDocumentLocation2@96"file://localhost/Users/beau/Documents/FifthYear/EigenFacesTest/EigenFacesTest/FaceRecognizer.cpp0000000000000000^3314"CompileC DerivedData/EigenFacesTest/Build/Intermediates/EigenFacesTest.build/Debug/EigenFacesTest.build/Objects-normal/x86_64/FaceRecognizer.o EigenFacesTest/FaceRecognizer.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/beau/Documents/FifthYear/EigenFacesTest    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wshorten-64-to-32 -Wno-newline-eof -Wc++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.7 -g -fvisibility-inlines-hidden -Wno-conversion -Wno-sign-conversion -iquote /Users/beau/Documents/FifthYear/EigenFacesTest/DerivedData/EigenFacesTest/Build/Intermediates/EigenFacesTest.build/Debug/EigenFacesTest.build/EigenFacesTest-generated-files.hmap -I/Users/beau/Documents/FifthYear/EigenFacesTest/DerivedData/EigenFacesTest/Build/Intermediates/EigenFacesTest.build/Debug/EigenFacesTest.build/EigenFacesTest-own-target-headers.hmap -I/Users/beau/Documents/FifthYear/EigenFacesTest/DerivedData/EigenFacesTest/Build/Intermediates/EigenFacesTest.build/Debug/EigenFacesTest.build/EigenFacesTest-all-target-headers.hmap -iquote /Users/beau/Documents/FifthYear/EigenFacesTest/DerivedData/EigenFacesTest/Build/Intermediates/EigenFacesTest.build/Debug/EigenFacesTest.build/EigenFacesTest-project-headers.hmap -iquote/opt/local/lib -iquote/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/lib/system -I/Users/beau/Documents/FifthYear/EigenFacesTest/DerivedData/EigenFacesTest/Build/Products/Debug/include -I/opt/local/include -I/Users/beau/Documents/FifthYear/EigenFacesTest/DerivedData/EigenFacesTest/Build/Intermediates/EigenFacesTest.build/Debug/EigenFacesTest.build/DerivedSources/x86_64 -I/Users/beau/Documents/FifthYear/EigenFacesTest/DerivedData/EigenFacesTest/Build/Intermediates/EigenFacesTest.build/Debug/EigenFacesTest.build/DerivedSources -F/Users/beau/Documents/FifthYear/EigenFacesTest/DerivedData/EigenFacesTest/Build/Products/Debug -MMD -MT dependencies -MF /Users/beau/Documents/FifthYear/EigenFacesTest/DerivedData/EigenFacesTest/Build/Intermediates/EigenFacesTest.build/Debug/EigenFacesTest.build/Objects-normal/x86_64/FaceRecognizer.d --serialize-diagnostics /Users/beau/Documents/FifthYear/EigenFacesTest/DerivedData/EigenFacesTest/Build/Intermediates/EigenFacesTest.build/Debug/EigenFacesTest.build/Objects-normal/x86_64/FaceRecognizer.dia -c /Users/beau/Documents/FifthYear/EigenFacesTest/EigenFacesTest/FaceRecognizer.cpp -o /Users/beau/Documents/FifthYear/EigenFacesTest/DerivedData/EigenFacesTest/Build/Intermediates/EigenFacesTest.build/Debug/EigenFacesTest.build/Objects-normal/x86_64/FaceRecognizer.o36"A01C6BC0-10CA-433F-9A2F-07E5E746D202-
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compile /Users/beau/Documents/FifthYear/EigenFacesTest/EigenFacesTest/FaceRecognizer.cpp8b34fd955473b541^21939c965473b541^---0#0#0#-19%DVTDocumentLocation2@96"file://localhost/Users/beau/Documents/FifthYear/EigenFacesTest/EigenFacesTest/FaceRecognizer.cpp0000000000000000^3314"CompileC DerivedData/EigenFacesTest/Build/Intermediates/EigenFacesTest.build/Debug/EigenFacesTest.build/Objects-normal/x86_64/FaceRecognizer.o EigenFacesTest/FaceRecognizer.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/beau/Documents/FifthYear/EigenFacesTest    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wshorten-64-to-32 -Wno-newline-eof -Wc++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.7 -g -fvisibility-inlines-hidden -Wno-conversion -Wno-sign-conversion -iquote /Users/beau/Documents/FifthYear/EigenFacesTest/DerivedData/EigenFacesTest/Build/Intermediates/EigenFacesTest.build/Debug/EigenFacesTest.build/EigenFacesTest-generated-files.hmap -I/Users/beau/Documents/FifthYear/EigenFacesTest/DerivedData/EigenFacesTest/Build/Intermediates/EigenFacesTest.build/Debug/EigenFacesTest.build/EigenFacesTest-own-target-headers.hmap -I/Users/beau/Documents/FifthYear/EigenFacesTest/DerivedData/EigenFacesTest/Build/Intermediates/EigenFacesTest.build/Debug/EigenFacesTest.build/EigenFacesTest-all-target-headers.hmap -iquote /Users/beau/Documents/FifthYear/EigenFacesTest/DerivedData/EigenFacesTest/Build/Intermediates/EigenFacesTest.build/Debug/EigenFacesTest.build/EigenFacesTest-project-headers.hmap -iquote/opt/local/lib -iquote/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/lib/system -I/Users/beau/Documents/FifthYear/EigenFacesTest/DerivedData/EigenFacesTest/Build/Products/Debug/include -I/opt/local/include -I/Users/beau/Documents/FifthYear/EigenFacesTest/DerivedData/EigenFacesTest/Build/Intermediates/EigenFacesTest.build/Debug/EigenFacesTest.build/DerivedSources/x86_64 -I/Users/beau/Documents/FifthYear/EigenFacesTest/DerivedData/EigenFacesTest/Build/Intermediates/EigenFacesTest.build/Debug/EigenFacesTest.build/DerivedSources -F/Users/beau/Documents/FifthYear/EigenFacesTest/DerivedData/EigenFacesTest/Build/Products/Debug -MMD -MT dependencies -MF /Users/beau/Documents/FifthYear/EigenFacesTest/DerivedData/EigenFacesTest/Build/Intermediates/EigenFacesTest.build/Debug/EigenFacesTest.build/Objects-normal/x86_64/FaceRecognizer.d --serialize-diagnostics /Users/beau/Documents/FifthYear/EigenFacesTest/DerivedData/EigenFacesTest/Build/Intermediates/EigenFacesTest.build/Debug/EigenFacesTest.build/Objects-normal/x86_64/FaceRecognizer.dia -c /Users/beau/Documents/FifthYear/EigenFacesTest/EigenFacesTest/FaceRecognizer.cpp -o /Users/beau/Documents/FifthYear/EigenFacesTest/DerivedData/EigenFacesTest/Build/Intermediates/EigenFacesTest.build/Debug/EigenFacesTest.build/Objects-normal/x86_64/FaceRecognizer.o36"AEBAA615-0E31-4D6E-A1CE-770F97641946-
 
 CCompileC DerivedData/EigenFacesTest/Build/Intermediates/EigenFacesTest.build/Debug/EigenFacesTest.build/Objects-normal/x86_64/main.o /Users/beau/Documents/FifthYear/EigenFacesTest/EigenFacesTest/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
 r0
 
 CLd /Users/beau/Documents/FifthYear/EigenFacesTest/DerivedData/EigenFacesTest/Build/Products/Debug/EigenFacesTest normal x86_64
-s359872407.958407
-e359872407.990536
+s359879830.676982
+e359879830.760301
 r1
 xLd
 x/Users/beau/Documents/FifthYear/EigenFacesTest/DerivedData/EigenFacesTest/Build/Products/Debug/EigenFacesTest
 xnormal
 xx86_64
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection114"Link /Users/beau/Documents/FifthYear/EigenFacesTest/DerivedData/EigenFacesTest/Build/Products/Debug/EigenFacesTest386af5973773b541^c573fe973773b541^---0#0#0#--1205"Ld DerivedData/EigenFacesTest/Build/Products/Debug/EigenFacesTest normal x86_64    cd /Users/beau/Documents/FifthYear/EigenFacesTest    setenv MACOSX_DEPLOYMENT_TARGET 10.7    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -L/Users/beau/Documents/FifthYear/EigenFacesTest/DerivedData/EigenFacesTest/Build/Products/Debug -L/opt/local/lib -F/Users/beau/Documents/FifthYear/EigenFacesTest/DerivedData/EigenFacesTest/Build/Products/Debug -filelist /Users/beau/Documents/FifthYear/EigenFacesTest/DerivedData/EigenFacesTest/Build/Intermediates/EigenFacesTest.build/Debug/EigenFacesTest.build/Objects-normal/x86_64/EigenFacesTest.LinkFileList -mmacosx-version-min=10.7 -lopencv_contrib -lopencv_core -lopencv_features2d -lopencv_flann -lopencv_gpu -lopencv_highgui -lopencv_imgproc -lopencv_legacy -lopencv_ml -lopencv_nonfree -lopencv_objdetect -lopencv_photo -lopencv_stitching -lopencv_ts -lopencv_video -lopencv_videostab -o /Users/beau/Documents/FifthYear/EigenFacesTest/DerivedData/EigenFacesTest/Build/Products/Debug/EigenFacesTest36"1969B9DE-5707-45D4-AEE0-1AB585B1DAAE-
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection114"Link /Users/beau/Documents/FifthYear/EigenFacesTest/DerivedData/EigenFacesTest/Build/Products/Debug/EigenFacesTest4164ad965473b541^f0a3c2965473b541^---0#0#0#--1205"Ld DerivedData/EigenFacesTest/Build/Products/Debug/EigenFacesTest normal x86_64    cd /Users/beau/Documents/FifthYear/EigenFacesTest    setenv MACOSX_DEPLOYMENT_TARGET 10.7    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -L/Users/beau/Documents/FifthYear/EigenFacesTest/DerivedData/EigenFacesTest/Build/Products/Debug -L/opt/local/lib -F/Users/beau/Documents/FifthYear/EigenFacesTest/DerivedData/EigenFacesTest/Build/Products/Debug -filelist /Users/beau/Documents/FifthYear/EigenFacesTest/DerivedData/EigenFacesTest/Build/Intermediates/EigenFacesTest.build/Debug/EigenFacesTest.build/Objects-normal/x86_64/EigenFacesTest.LinkFileList -mmacosx-version-min=10.7 -lopencv_contrib -lopencv_core -lopencv_features2d -lopencv_flann -lopencv_gpu -lopencv_highgui -lopencv_imgproc -lopencv_legacy -lopencv_ml -lopencv_nonfree -lopencv_objdetect -lopencv_photo -lopencv_stitching -lopencv_ts -lopencv_video -lopencv_videostab -o /Users/beau/Documents/FifthYear/EigenFacesTest/DerivedData/EigenFacesTest/Build/Products/Debug/EigenFacesTest36"D37823B6-6443-400E-B05B-805EB92AC671-
 
 CPBXCp EigenFacesTest/EigenFacesTest.1 /usr/share/man/man1/EigenFacesTest.1
 s359869940.755518
