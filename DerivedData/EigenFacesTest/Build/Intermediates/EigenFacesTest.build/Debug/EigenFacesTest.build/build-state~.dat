@@ -1,0 +1,42 @@
+TEigenFacesTest
+v5
+r1
+cCheck dependencies
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk
+c000000004F29C61A00000000000000EE
+t1328137754
+s238
+
+N/Users/beau/Documents/FifthYear/EigenFacesTest/DerivedData/EigenFacesTest/Build/Intermediates/EigenFacesTest.build/Debug/EigenFacesTest.build/Objects-normal/x86_64/EigenFacesTest.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/beau/Documents/FifthYear/EigenFacesTest/DerivedData/EigenFacesTest/Build/Intermediates/EigenFacesTest.build/Debug/EigenFacesTest.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/beau/Documents/FifthYear/EigenFacesTest/DerivedData/EigenFacesTest/Build/Products/Debug/EigenFacesTest
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/beau/Documents/FifthYear/EigenFacesTest/EigenFacesTest/main.cpp
+c000000004FC2F2AE000000000000012B
+t1338176174
+s299
+
+CBuild AST from /Users/beau/Documents/FifthYear/EigenFacesTest/EigenFacesTest/main.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesdfbf6d842b73b541^77116e842b73b541^---0#1#0#--18"Check dependencies36"72C7319D-8968-4623-B57F-8234ED24A4B5-
+
+CCompileC DerivedData/EigenFacesTest/Build/Intermediates/EigenFacesTest.build/Debug/EigenFacesTest.build/Objects-normal/x86_64/main.o /Users/beau/Documents/FifthYear/EigenFacesTest/EigenFacesTest/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CLd /Users/beau/Documents/FifthYear/EigenFacesTest/DerivedData/EigenFacesTest/Build/Products/Debug/EigenFacesTest normal x86_64
+r0
+
